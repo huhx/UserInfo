@@ -3,7 +3,6 @@
 	<name>UserInfo</name>
 	<comment></comment>
 	<projects>
-		<project>pweb</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
